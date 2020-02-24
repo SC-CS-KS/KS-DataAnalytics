@@ -5,9 +5,13 @@
 ### MOLAP
 
 ## [数据分析模型](AnalyticalModel/README.md)
-### [归因分析](AnalyticalModel/attribution-analysis.md)
+### [归因分析](AnalyticalModel/AttributionAnalysis.md)
+### [PEST](AnalyticalModel/PEST.md)
+### [SWOT](AnalyticalModel/SWOT.md)
+### 5w2H
+### [4P](AnalyticalModel/4P.md)
 
-### PEST
+## [数据分析方法](AnalyticalMethod/README.md)
 
 # [数据可视化](DataVisualization/)
 

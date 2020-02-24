@@ -7,6 +7,8 @@
 PEST要求高级管理层具备相关的能力及素养。
 PEST作为企业与环境分析的基础工具，与外部总体环境的因素互相结合就可归纳出SWOT分析中的机会与威胁。
 
+![](_pic/PEST.jpeg)
+
 ## 政治（Political）
 ## 经济（Economic）
 ## 社会（Social）
