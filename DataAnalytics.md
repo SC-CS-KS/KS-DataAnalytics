@@ -5,7 +5,9 @@
 ### MOLAP
 
 ## [数据分析模型](AnalyticalModel/README.md)
+### [漏斗模型]AnalyticalModel/FunnelModel/README.md)
 ### [归因分析](AnalyticalModel/AttributionAnalysis.md)
+
 ### [PEST](AnalyticalModel/PEST.md)
 ### [SWOT](AnalyticalModel/SWOT.md)
 ### 5w2H
