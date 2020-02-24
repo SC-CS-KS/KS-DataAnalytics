@@ -1,28 +1,27 @@
-# Big Data Analysis
 
-## Offline Analysis (离线数据分析)
-## Online Analysis（在线数据分析）
-
+# [数据分析方法论](_theory/README.md)
 ## [OLAP](OLAP/README.md)
 
-##  Analytical Model
+## [OLTP](https://github.com/SC-CS-KS/KS-DataBase/tree/master/db-model/RDBMS/OLTP)
 
+## [数据分析模型](AnalyticalModel/README.md)
 ### [归因分析](AnalyticalModel/attribution-analysis.md)
 
-## [Data Visualization](DataVisualization/)
+# [数据可视化](DataVisualization/)
+# [数据地图](DataMap/)
 
-## Analytical Platform
+# 数据分析平台
+## [AnalyticDB 阿里分析型数据库](https://mp.weixin.qq.com/s/kt-xtvM77UZ3kD-3dpU7sw)
 
-* [AnalyticDB 阿里分析型数据库](https://mp.weixin.qq.com/s/kt-xtvM77UZ3kD-3dpU7sw)
+# 数据分析应用
+## [Ad-Hoc](Ad-hoc/)
 
-## Utility
-### [BI](BI/README.md)
-### [Ad-Hoc](Ad-hoc/)
-### [数据地图](DataMap/)
+## [BI](BI/README.md)
+### BI
+### Domo
+### Looker
 
-## 实践
-* [如何搭建一套大数据分析平台？](../practice/data-analytics-deploy/README.md)
+# [案例](_cases/README.md)
 
-## Resources
-* [埃森哲是如何系统化做好数据分析](https://www.jianshu.com/p/38fcc28ad849)
-* [为什么已有Elasticsearch，我们还要重造实时分析引擎AresDB？](https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO)
+# 实践
+## [如何搭建一套大数据分析平台？](../practice/data-analytics-deploy/README.md)
