@@ -7,6 +7,8 @@
 ## [数据分析模型](AnalyticalModel/README.md)
 ### [归因分析](AnalyticalModel/attribution-analysis.md)
 
+### PEST
+
 # [数据可视化](DataVisualization/)
 
 # [数据地图](DataMap/)
