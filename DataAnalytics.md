@@ -20,7 +20,7 @@
 ### [Ad-Hoc](Ad-hoc/)
 ### [数据地图](DataMap/)
 
-## Practice
+## 实践
 * [如何搭建一套大数据分析平台？](../practice/data-analytics-deploy/README.md)
 
 ## Resources
